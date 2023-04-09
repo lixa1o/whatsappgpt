@@ -1,0 +1,43 @@
+2023/04/09-15:27:56.247 19a2 Reusing MANIFEST /home/nqu/whatsappgpt/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/09-15:27:56.248 19a2 Recovering log #1371
+2023/04/09-15:27:56.248 19a2 Reusing old log /home/nqu/whatsappgpt/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/001371.log 
+2023/04/09-15:27:56.248 19a2 Delete type=2 #1296
+2023/04/09-15:27:56.248 19a2 Delete type=2 #1278
+2023/04/09-15:27:56.248 19a2 Delete type=2 #1356
+2023/04/09-15:27:56.248 19a2 Delete type=2 #1271
+2023/04/09-15:27:56.248 19a2 Delete type=2 #1279
+2023/04/09-15:27:56.248 19a2 Delete type=2 #1274
+2023/04/09-15:27:56.248 19a2 Delete type=2 #1273
+2023/04/09-15:27:56.248 19a2 Delete type=2 #1275
+2023/04/09-15:27:56.248 19a2 Delete type=2 #1282
+2023/04/09-15:27:56.248 19a2 Delete type=2 #1283
+2023/04/09-15:27:56.248 19a2 Delete type=2 #1277
+2023/04/09-15:27:56.248 19a2 Delete type=2 #1272
+2023/04/09-15:27:56.248 19a2 Delete type=2 #1276
+2023/04/09-15:27:56.248 19a2 Delete type=2 #1281
+2023/04/09-15:27:56.248 19a2 Delete type=2 #1280
+2023/04/09-15:27:56.248 19a2 Delete type=2 #1350
+2023/04/09-15:27:56.303 19a2 Level-0 table #1380: started
+2023/04/09-15:27:56.305 19a2 Level-0 table #1380: 1934 bytes OK
+2023/04/09-15:27:56.308 19a2 Delete type=0 #1371
+2023/04/09-15:27:56.308 19a2 Manual compaction at level-0 from '\x00\x16\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x17\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/04/09-15:27:56.309 19a2 Manual compaction at level-1 from '\x00\x16\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x17\x00\x00\x00' @ 0 : 0; will stop at '\x00\x16\x00\x00\xc8\x13\x00s\x00i\x00g\x00n\x00e\x00d\x00-\x00p\x00r\x00e\x00k\x00e\x00y\x00-\x00s\x00t\x00o\x00r\x00e' @ 5129335 : 0
+2023/04/09-15:27:56.309 19a2 Compacting 1@1 + 1@2 files
+2023/04/09-15:27:56.313 19a2 Generated table #1381@1: 496 keys, 130137 bytes
+2023/04/09-15:27:56.313 19a2 Compacted 1@1 + 1@2 files => 130137 bytes
+2023/04/09-15:27:56.315 19a2 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/04/09-15:27:56.316 19a2 Delete type=2 #1380
+2023/04/09-15:27:56.316 19a2 Manual compaction at level-1 from '\x00\x16\x00\x00\xc8\x13\x00s\x00i\x00g\x00n\x00e\x00d\x00-\x00p\x00r\x00e\x00k\x00e\x00y\x00-\x00s\x00t\x00o\x00r\x00e' @ 5129335 : 0 .. '\x00\x17\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/04/09-15:27:56.324 19a2 Level-0 table #1383: started
+2023/04/09-15:27:56.329 19a2 Level-0 table #1383: 126805 bytes OK
+2023/04/09-15:27:56.331 19a2 Delete type=0 #1379
+2023/04/09-15:27:56.331 19a2 Delete type=2 #1377
+2023/04/09-15:27:56.331 19a2 Manual compaction at level-0 from '\x00\x0e\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0f\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/04/09-15:27:56.331 19a2 Manual compaction at level-1 from '\x00\x0e\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0f\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0e\x07\x02\x01\x05\x00t\x00o\x00k\x00e\x00n' @ 5129790 : 0
+2023/04/09-15:27:56.331 19a2 Compacting 1@1 + 1@2 files
+2023/04/09-15:27:56.334 19a2 Generated table #1384@1: 61 keys, 1105 bytes
+2023/04/09-15:27:56.334 19a2 Compacted 1@1 + 1@2 files => 1105 bytes
+2023/04/09-15:27:56.338 19a2 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/04/09-15:27:56.338 19a2 Delete type=2 #1383
+2023/04/09-15:27:56.339 19a2 Manual compaction at level-1 from '\x00\x0e\x07\x02\x01\x05\x00t\x00o\x00k\x00e\x00n' @ 5129790 : 0 .. '\x00\x0f\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/04/09-15:27:56.985 19b1 Manual compaction at level-0 from '\x00\x18\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x19\x00\x00\x00' @ 0 : 0; will stop at (end)

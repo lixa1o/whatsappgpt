@@ -31,9 +31,10 @@ client.on('message', async message => {
     // chatgpt response
 	if(trigger === '/ask') {
 
-        let response = await ask(message.body);
-		client.sendMessage(message.from, response.data.choices[0].text);
-
+        // let response = await ask(message.body);
+		// client.sendMessage(message.from, response.data.choices[0].text);
+        client.sendMessage(message.from, "hello");
+        console.log("hello")
 	}
     else if (trigger == "/execute") {
 
